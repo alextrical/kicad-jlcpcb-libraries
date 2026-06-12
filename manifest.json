@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-06-12T09:23:48Z",
+  "source": "source/build",
+  "destination": "libraries/symbols",
+  "file_count": 7,
+  "files_sha256": [
+      {"file": "source/build/JLCPCB_Basic_Capacitor.kicad_sym", "sha256": "b29cf2d770cb3bb6af262c29dca204ba0a4ddac305e91bafc3d1fb0015304f53"},
+      {"file": "source/build/JLCPCB_Basic_Diode-General.kicad_sym", "sha256": "9d37163219d7244b83ee42f6e46ffe50fae26487f6cc1316e1e338ffad6995cf"},
+      {"file": "source/build/JLCPCB_Basic_Diode-Schottky.kicad_sym", "sha256": "6039a7f9a3b79b15da8a3f28ebcdded488f0cb54e3a71f1a6b7f23c5f33f3ffa"},
+      {"file": "source/build/JLCPCB_Basic_Diode-Zener.kicad_sym", "sha256": "581443b839c98ee7f7d99f66d0e90a7abbf2b4569d69e6f21a6c1b2005ca4d95"},
+      {"file": "source/build/JLCPCB_Basic_FerriteBead.kicad_sym", "sha256": "4fa3cd1b93c168200592bb08c01eb34ef8b3cfa646e882179f8416677b59e621"},
+      {"file": "source/build/JLCPCB_Basic_LED.kicad_sym", "sha256": "c0bbc9cd67deea0c0631c0e09682429b69f37494134be0757bea0b018eec2eb8"},
+      {"file": "source/build/JLCPCB_Basic_Resistor.kicad_sym", "sha256": "f9cd1541c3e3f4fad06f328fedb24a0f3c4bdf6d5018be8d77c903866b434b1c"}
+  ]
+}
