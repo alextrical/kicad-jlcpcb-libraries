@@ -6,7 +6,7 @@ Generated KiCad symbol libraries for JLCPCB/LCSC parts.
 
 This repository contains published library artifacts generated automatically from the source repository.
 
-- Source of truth: `alextrical/kicad-jlcpcb`
+- Source of truth: [alextrical/jlcpcb-to-kicad-sym](https://github.com/alextrical/jlcpcb-to-kicad-sym)
 - Contents here are generated, not edited manually
 - Updates are published by CI
 
