@@ -10,6 +10,14 @@ This repository contains published library artifacts generated automatically fro
 - Contents here are generated, not edited manually
 - Updates are published by CI
 
+## Usage
+As a Git submodule
+Add this repository to your project:
+```bash
+git submodule add https://github.com/alextrical/kicad-jlcpcb-libraries.git kicad-jlcpcb-libraries
+git submodule update --init --recursive
+```
+
 ## Contents
 
 - `symbols/`: generated `.kicad_sym` files
