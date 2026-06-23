@@ -1517,7 +1517,7 @@
 				)
 			)
 		)
-		(property "Stock" "8778068"
+		(property "Stock" "7277425"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1528,7 +1528,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0094"
+		(property "unit_price_10" "$0.015"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1539,7 +1539,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0094"
+		(property "unit_price_100" "$0.015"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1550,7 +1550,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0082"
+		(property "unit_price_1000" "$0.0134"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2854,7 +2854,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707164920893440"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8757265887575990272"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2931,7 +2931,7 @@
 				)
 			)
 		)
-		(property "Stock" "1654553"
+		(property "Stock" "2155057"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2942,7 +2942,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0039"
+		(property "unit_price_10" "$0.0202"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2953,7 +2953,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0039"
+		(property "unit_price_100" "$0.0202"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2964,7 +2964,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0032"
+		(property "unit_price_1000" "$0.0179"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4345,7 +4345,7 @@
 				)
 			)
 		)
-		(property "Stock" "2284178"
+		(property "Stock" "2798959"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4356,7 +4356,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0306"
+		(property "unit_price_10" "$0.0534"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4367,7 +4367,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0306"
+		(property "unit_price_100" "$0.0534"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4378,7 +4378,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0233"
+		(property "unit_price_1000" "$0.0423"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8183,7 +8183,7 @@
 				)
 			)
 		)
-		(property "Stock" "566643"
+		(property "Stock" "579512"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8194,7 +8194,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0112"
+		(property "unit_price_10" "$0.0149"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8205,7 +8205,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0112"
+		(property "unit_price_100" "$0.0149"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8216,7 +8216,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0083"
+		(property "unit_price_1000" "$0.012"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8980,7 +8980,7 @@
 				)
 			)
 		)
-		(property "Stock" "3837033"
+		(property "Stock" "4519174"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8991,7 +8991,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0053"
+		(property "unit_price_10" "$0.0143"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9002,7 +9002,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0053"
+		(property "unit_price_100" "$0.0143"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9013,7 +9013,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0044"
+		(property "unit_price_1000" "$0.0122"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11114,7 +11114,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706870636216320"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8757170385404076032"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11202,7 +11202,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.018"
+		(property "unit_price_10" "$0.024"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11213,7 +11213,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.018"
+		(property "unit_price_100" "$0.024"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11224,7 +11224,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0141"
+		(property "unit_price_1000" "$0.0199"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11393,7 +11393,7 @@
 				)
 			)
 		)
-		(property "Stock" "139251"
+		(property "Stock" "128296"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11404,7 +11404,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0537"
+		(property "unit_price_10" "$0.0736"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11415,7 +11415,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0469"
+		(property "unit_price_100" "$0.0668"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11426,7 +11426,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0433"
+		(property "unit_price_1000" "$0.0632"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15422,7 +15422,7 @@
 				)
 			)
 		)
-		(property "Stock" "1454269"
+		(property "Stock" "1354022"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15433,7 +15433,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0148"
+		(property "unit_price_10" "$0.0238"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15444,7 +15444,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0148"
+		(property "unit_price_100" "$0.0238"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15455,7 +15455,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0117"
+		(property "unit_price_1000" "$0.0207"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19778,7 +19778,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707159174832128"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8757167280684056576"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19855,7 +19855,7 @@
 				)
 			)
 		)
-		(property "Stock" "52906"
+		(property "Stock" "11065"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19866,7 +19866,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0041"
+		(property "unit_price_10" "$0.0058"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19877,7 +19877,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0041"
+		(property "unit_price_100" "$0.0058"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19888,7 +19888,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0033"
+		(property "unit_price_1000" "$0.005"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20171,7 +20171,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707162001793024"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8757166693615579136"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20248,7 +20248,7 @@
 				)
 			)
 		)
-		(property "Stock" "1885240"
+		(property "Stock" "387984"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20259,7 +20259,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.004"
+		(property "unit_price_10" "$0.0056"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20270,7 +20270,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.004"
+		(property "unit_price_100" "$0.0056"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20281,7 +20281,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0033"
+		(property "unit_price_1000" "$0.0049"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21842,7 +21842,7 @@
 				)
 			)
 		)
-		(property "Stock" "196805"
+		(property "Stock" "158009"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21853,7 +21853,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0072"
+		(property "unit_price_10" "$0.0094"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21864,7 +21864,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0072"
+		(property "unit_price_100" "$0.0094"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21875,7 +21875,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.006"
+		(property "unit_price_1000" "$0.0082"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23256,7 +23256,7 @@
 				)
 			)
 		)
-		(property "Stock" "69339"
+		(property "Stock" "70386"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23267,7 +23267,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0141"
+		(property "unit_price_10" "$0.0189"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23278,7 +23278,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0141"
+		(property "unit_price_100" "$0.0189"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23289,7 +23289,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0117"
+		(property "unit_price_1000" "$0.0165"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24266,7 +24266,7 @@
 				)
 			)
 		)
-		(property "Stock" "265414"
+		(property "Stock" "263824"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24277,7 +24277,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.1412"
+		(property "unit_price_10" "$0.191"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24288,7 +24288,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.1239"
+		(property "unit_price_100" "$0.1736"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24299,7 +24299,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.1076"
+		(property "unit_price_1000" "$0.1572"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

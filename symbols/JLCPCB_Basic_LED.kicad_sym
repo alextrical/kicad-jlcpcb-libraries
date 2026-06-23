@@ -889,7 +889,7 @@
 				)
 			)
 		)
-		(property "Stock" "3580789"
+		(property "Stock" "2895334"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -900,7 +900,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0133"
+		(property "unit_price_10" "$0.0134"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -911,7 +911,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0133"
+		(property "unit_price_100" "$0.0134"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -922,7 +922,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0104"
+		(property "unit_price_1000" "$0.0105"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1731,7 +1731,7 @@
 				)
 			)
 		)
-		(property "Stock" "157844"
+		(property "Stock" "90944"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1742,7 +1742,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0194"
+		(property "unit_price_10" "$0.0196"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1753,7 +1753,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0194"
+		(property "unit_price_100" "$0.0196"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1764,7 +1764,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.014"
+		(property "unit_price_1000" "$0.0141"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
