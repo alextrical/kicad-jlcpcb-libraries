@@ -112,7 +112,7 @@
 				)
 			)
 		)
-		(property "Stock" "5880366"
+		(property "Stock" "5015719"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123,7 +123,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0111"
+		(property "unit_price_10" "$0.0112"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -134,7 +134,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0111"
+		(property "unit_price_100" "$0.0112"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
